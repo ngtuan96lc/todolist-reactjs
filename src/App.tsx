@@ -1,8 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.scss';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.scss";
 
-import { TodoWrapper } from './components/todowrapper';
+import { TodoWrapper } from "./components/todowrapper";
 
 function App() {
   return (
